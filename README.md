@@ -1,6 +1,6 @@
 # functions
 
-## Mirror a curve alng y axis. mod function. |x|
+## Mirror a curve along y axis. mod function. |x|
 
 ## Sin (x)
  - Increase frequency of waves . modify paramter of x in sin(x)
