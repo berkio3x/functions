@@ -8,6 +8,9 @@
 ### cos(X)
 - Cosine is just like Sine, but it starts at 1 and heads down until π radians (180°) and then heads up again.
 
+-waves
+
+\[ f\left(x\right) = \sin\left(0.4x + T\right) + 0.2 \cos\left(2x + 2T\right) \]
 
 
 
