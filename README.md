@@ -2,7 +2,7 @@
 
 ## Sin (x)
 - periodic function with period of 2 pi
-  - fpr any x , sin(x) = sin(x + 2 * M_PI) 
+  - for any x , sin(x) = sin(x + 2 * M_PI) 
  - Intuition behind sin waves (ex. from unit circles).
  - Increase frequency of waves . modify paramter of x in sin(x).
  - Increrase amplitude of waves . modify final output of sin (x).
