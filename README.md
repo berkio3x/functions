@@ -7,6 +7,9 @@
  - Increase frequency of waves . modify paramter of x in sin(x).
  - Increrase amplitude of waves . modify final output of sin (x).
 
+ - Bounce effects
+ - ease in effe cts - https://gist.github.com/gre/1650294
+
 ### cos(X)
 - Cosine is just like Sine, but it starts at 1 and heads down until π radians (180°) and then heads up again.
 
